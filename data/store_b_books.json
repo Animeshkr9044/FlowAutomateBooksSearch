@@ -1,0 +1,702 @@
+[
+  {
+    "product_id": "AMZN_269042105",
+    "book_name": "The Martian",
+    "writer": "Andy Weir",
+    "category": [
+      "Science Fiction",
+      "Hard SF"
+    ],
+    "cost": 9.69,
+    "reviews_count": 475,
+    "summary": "Stranded astronaut uses science and ingenuity to survive on Mars in this thrilling tale of human resilience.",
+    "publisher": "Crown Publishing",
+    "stock": 65
+  },
+  {
+    "product_id": "AMZN_825003955",
+    "book_name": "1984",
+    "writer": "George Orwell",
+    "category": [
+      "Fiction",
+      "Dystopian"
+    ],
+    "cost": 8.81,
+    "reviews_count": 1936,
+    "summary": "Winston Smith navigates a totalitarian society where Big Brother watches everyone in this classic dystopian masterpiece.",
+    "publisher": "Signet Classics",
+    "stock": 51
+  },
+  {
+    "product_id": "AMZN_765055833",
+    "book_name": "Harry Potter and the Sorcerer's Stone",
+    "writer": "J.K. Rowling",
+    "category": [
+      "Fantasy",
+      "Young Adult"
+    ],
+    "cost": 10.97,
+    "reviews_count": 681,
+    "summary": "Eleven-year-old Harry Potter discovers his magical heritage and begins his journey at Hogwarts School.",
+    "publisher": "Scholastic",
+    "stock": 53
+  },
+  {
+    "product_id": "AMZN_819112790",
+    "book_name": "The Murder of Roger Ackroyd",
+    "writer": "Agatha Christie",
+    "category": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "cost": 23.2,
+    "reviews_count": 2583,
+    "summary": "Detective Hercule Poirot unravels a complex murder mystery with an unexpected twist ending.",
+    "publisher": "William Morrow",
+    "stock": 30
+  },
+  {
+    "product_id": "AMZN_590941149",
+    "book_name": "Pride and Prejudice",
+    "writer": "Jane Austen",
+    "category": [
+      "Romance",
+      "Classic Literature"
+    ],
+    "cost": 12.88,
+    "reviews_count": 2600,
+    "summary": "Elizabeth Bennet navigates love and social expectations in this beloved romantic classic.",
+    "publisher": "Penguin Classics",
+    "stock": 96
+  },
+  {
+    "product_id": "AMZN_704509817",
+    "book_name": "The Shining",
+    "writer": "Stephen King",
+    "category": [
+      "Horror",
+      "Supernatural"
+    ],
+    "cost": 27.2,
+    "reviews_count": 829,
+    "summary": "Jack Torrance's psychological breakdown at the haunted Overlook Hotel threatens his family.",
+    "publisher": "Doubleday",
+    "stock": 9
+  },
+  {
+    "product_id": "AMZN_173864104",
+    "book_name": "Dune",
+    "writer": "Frank Herbert",
+    "category": [
+      "Science Fiction",
+      "Space Opera"
+    ],
+    "cost": 23.03,
+    "reviews_count": 2011,
+    "summary": "Paul Atreides navigates political intrigue and mystical powers on the spice-rich planet Dune.",
+    "publisher": "Ace Books",
+    "stock": 47
+  },
+  {
+    "product_id": "AMZN_966616964",
+    "book_name": "The Hobbit",
+    "writer": "J.R.R. Tolkien",
+    "category": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "cost": 14.54,
+    "reviews_count": 4343,
+    "summary": "Bilbo Baggins embarks on an adventure with dwarves to reclaim the Lonely Mountain from a dragon.",
+    "publisher": "Houghton Mifflin",
+    "stock": 1
+  },
+  {
+    "product_id": "AMZN_244193987",
+    "book_name": "Atomic Habits",
+    "writer": "James Clear",
+    "category": [
+      "Self-Help",
+      "Personal Development"
+    ],
+    "cost": 23.07,
+    "reviews_count": 2176,
+    "summary": "Evidence-based strategies for forming habits that stick and achieving remarkable results.",
+    "publisher": "Avery",
+    "stock": 14
+  },
+  {
+    "product_id": "AMZN_326161867",
+    "book_name": "Sapiens",
+    "writer": "Yuval Noah Harari",
+    "category": [
+      "History",
+      "Anthropology"
+    ],
+    "cost": 32.05,
+    "reviews_count": 2818,
+    "summary": "Exploration of how Homo sapiens came to dominate Earth through cognitive, agricultural, and scientific revolutions.",
+    "publisher": "Harper",
+    "stock": 26
+  },
+  {
+    "product_id": "AMZN_154544899",
+    "book_name": "The Great Gatsby",
+    "writer": "F. Scott Fitzgerald",
+    "category": [
+      "Fiction",
+      "Classic Literature"
+    ],
+    "cost": 23.88,
+    "reviews_count": 766,
+    "summary": "Nick Carraway observes the tragic story of Jay Gatsby's pursuit of love and the American Dream.",
+    "publisher": "Scribner",
+    "stock": 81
+  },
+  {
+    "product_id": "AMZN_927982963",
+    "book_name": "To Kill a Mockingbird",
+    "writer": "Harper Lee",
+    "category": [
+      "Fiction",
+      "Social Issues"
+    ],
+    "cost": 14.53,
+    "reviews_count": 1081,
+    "summary": "Scout Finch learns about justice and morality when her father defends a Black man in 1930s Alabama.",
+    "publisher": "J.B. Lippincott",
+    "stock": 81
+  },
+  {
+    "product_id": "AMZN_857704655",
+    "book_name": "The Hitchhiker's Guide to the Galaxy",
+    "writer": "Douglas Adams",
+    "category": [
+      "Science Fiction",
+      "Comedy"
+    ],
+    "cost": 27.29,
+    "reviews_count": 3513,
+    "summary": "Arthur Dent's hilarious adventures across the universe after Earth's demolition for a hyperspace bypass.",
+    "publisher": "Del Rey",
+    "stock": 71
+  },
+  {
+    "product_id": "AMZN_260045822",
+    "book_name": "The Alchemist",
+    "writer": "Paulo Coelho",
+    "category": [
+      "Fiction",
+      "Philosophical"
+    ],
+    "cost": 7.67,
+    "reviews_count": 4479,
+    "summary": "Santiago's quest for treasure becomes a spiritual journey of self-discovery and personal legend.",
+    "publisher": "HarperOne",
+    "stock": 4
+  },
+  {
+    "product_id": "AMZN_430989881",
+    "book_name": "Educated",
+    "writer": "Tara Westover",
+    "category": [
+      "Biography",
+      "Memoir"
+    ],
+    "cost": 29.96,
+    "reviews_count": 2997,
+    "summary": "Tara Westover's transformation from isolated childhood to Cambridge PhD through the power of education.",
+    "publisher": "Random House",
+    "stock": 5
+  },
+  {
+    "product_id": "AMZN_210373808",
+    "book_name": "The Power of Now",
+    "writer": "Eckhart Tolle",
+    "category": [
+      "Self-Help",
+      "Spirituality"
+    ],
+    "cost": 24.76,
+    "reviews_count": 2907,
+    "summary": "Transform your life by learning to live fully in the present moment and transcend negative thinking.",
+    "publisher": "New World Library",
+    "stock": 99
+  },
+  {
+    "product_id": "AMZN_354194771",
+    "book_name": "Project Hail Mary",
+    "writer": "Andy Weir",
+    "category": [
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "cost": 21.96,
+    "reviews_count": 1341,
+    "summary": "Ryland Grace awakens on a spaceship with no memory, discovering he's humanity's last hope against extinction.",
+    "publisher": "Ballantine Books",
+    "stock": 22
+  },
+  {
+    "product_id": "AMZN_456681425",
+    "book_name": "The Seven Husbands of Evelyn Hugo",
+    "writer": "Taylor Jenkins Reid",
+    "category": [
+      "Fiction",
+      "Historical Fiction"
+    ],
+    "cost": 26.54,
+    "reviews_count": 3382,
+    "summary": "Aging Hollywood star Evelyn Hugo reveals the truth about her glamorous and scandalous life.",
+    "publisher": "Atria Books",
+    "stock": 85
+  },
+  {
+    "product_id": "AMZN_216066793",
+    "book_name": "Klara and the Sun",
+    "writer": "Kazuo Ishiguro",
+    "category": [
+      "Science Fiction",
+      "Literary Fiction"
+    ],
+    "cost": 29.55,
+    "reviews_count": 3143,
+    "summary": "Klara, an artificial friend, watches the world from a store window and later serves a sick child.",
+    "publisher": "Knopf",
+    "stock": 4
+  },
+  {
+    "product_id": "AMZN_594246837",
+    "book_name": "Becoming",
+    "writer": "Michelle Obama",
+    "category": [
+      "Biography",
+      "Politics"
+    ],
+    "cost": 26.38,
+    "reviews_count": 2874,
+    "summary": "Michelle Obama's journey from Chicago's South Side to the White House and beyond.",
+    "publisher": "Crown",
+    "stock": 39
+  },
+  {
+    "product_id": "AMZN_953995721",
+    "book_name": "Book Title 21",
+    "writer": "Martha Wells",
+    "category": [
+      "Art",
+      "Visual Arts"
+    ],
+    "cost": 13.45,
+    "reviews_count": 203,
+    "summary": "A compelling art story that captivates readers with its unique perspective and engaging narrative.",
+    "publisher": "Random House",
+    "stock": 51
+  },
+  {
+    "product_id": "AMZN_399147754",
+    "book_name": "Book Title 22",
+    "writer": "Martha Wells",
+    "category": [
+      "Thriller",
+      "Suspense"
+    ],
+    "cost": 9.66,
+    "reviews_count": 2296,
+    "summary": "A compelling thriller story that captivates readers with its unique perspective and engaging narrative.",
+    "publisher": "HarperCollins",
+    "stock": 82
+  },
+  {
+    "product_id": "AMZN_529151399",
+    "book_name": "Book Title 23",
+    "writer": "Terry Pratchett",
+    "category": [
+      "History",
+      "World History"
+    ],
+    "cost": 31.54,
+    "reviews_count": 4402,
+    "summary": "A compelling history story that captivates readers with its unique perspective and engaging narrative.",
+    "publisher": "HarperCollins",
+    "stock": 3
+  },
+  {
+    "product_id": "AMZN_380477683",
+    "book_name": "Book Title 24",
+    "writer": "Jane Austen",
+    "category": [
+      "Science Fiction",
+      "Hard SF"
+    ],
+    "cost": 21.92,
+    "reviews_count": 2184,
+    "summary": "A compelling science fiction story that captivates readers with its unique perspective and engaging narrative.",
+    "publisher": "Penguin",
+    "stock": 13
+  },
+  {
+    "product_id": "AMZN_566609283",
+    "book_name": "Book Title 25",
+    "writer": "Toni Morrison",
+    "category": [
+      "Philosophy",
+      "Ethics"
+    ],
+    "cost": 25.48,
+    "reviews_count": 2579,
+    "summary": "A compelling philosophy story that captivates readers with its unique perspective and engaging narrative.",
+    "publisher": "Simon & Schuster",
+    "stock": 77
+  },
+  {
+    "product_id": "AMZN_224173718",
+    "book_name": "Book Title 26",
+    "writer": "Gabriel García Márquez",
+    "category": [
+      "History",
+      "World History"
+    ],
+    "cost": 29.58,
+    "reviews_count": 1567,
+    "summary": "A compelling history story that captivates readers with its unique perspective and engaging narrative.",
+    "publisher": "HarperCollins",
+    "stock": 5
+  },
+  {
+    "product_id": "AMZN_568213197",
+    "book_name": "Book Title 27",
+    "writer": "Stephen King",
+    "category": [
+      "Business",
+      "Entrepreneurship"
+    ],
+    "cost": 20.47,
+    "reviews_count": 4420,
+    "summary": "A compelling business story that captivates readers with its unique perspective and engaging narrative.",
+    "publisher": "Random House",
+    "stock": 46
+  },
+  {
+    "product_id": "AMZN_175133802",
+    "book_name": "Book Title 28",
+    "writer": "Terry Pratchett",
+    "category": [
+      "Horror",
+      "Supernatural"
+    ],
+    "cost": 30.09,
+    "reviews_count": 2581,
+    "summary": "A compelling horror story that captivates readers with its unique perspective and engaging narrative.",
+    "publisher": "Penguin",
+    "stock": 92
+  },
+  {
+    "product_id": "AMZN_422468580",
+    "book_name": "Book Title 29",
+    "writer": "Ursula K. Le Guin",
+    "category": [
+      "Travel",
+      "Adventure"
+    ],
+    "cost": 15.41,
+    "reviews_count": 3355,
+    "summary": "A compelling travel story that captivates readers with its unique perspective and engaging narrative.",
+    "publisher": "HarperCollins",
+    "stock": 51
+  },
+  {
+    "product_id": "AMZN_417457352",
+    "book_name": "Book Title 30",
+    "writer": "Philip K. Dick",
+    "category": [
+      "Business",
+      "Entrepreneurship"
+    ],
+    "cost": 11.04,
+    "reviews_count": 3454,
+    "summary": "A compelling business story that captivates readers with its unique perspective and engaging narrative.",
+    "publisher": "Simon & Schuster",
+    "stock": 86
+  },
+  {
+    "product_id": "AMZN_286860433",
+    "book_name": "Book Title 31",
+    "writer": "Douglas Adams",
+    "category": [
+      "Business",
+      "Entrepreneurship"
+    ],
+    "cost": 21.65,
+    "reviews_count": 3336,
+    "summary": "A compelling business story that captivates readers with its unique perspective and engaging narrative.",
+    "publisher": "Macmillan",
+    "stock": 0
+  },
+  {
+    "product_id": "AMZN_408071259",
+    "book_name": "Book Title 32",
+    "writer": "Mark Twain",
+    "category": [
+      "Romance",
+      "Contemporary Romance"
+    ],
+    "cost": 18.31,
+    "reviews_count": 4761,
+    "summary": "A compelling romance story that captivates readers with its unique perspective and engaging narrative.",
+    "publisher": "Macmillan",
+    "stock": 83
+  },
+  {
+    "product_id": "AMZN_599277266",
+    "book_name": "Book Title 33",
+    "writer": "Ray Bradbury",
+    "category": [
+      "Thriller",
+      "Suspense"
+    ],
+    "cost": 18.6,
+    "reviews_count": 1760,
+    "summary": "A compelling thriller story that captivates readers with its unique perspective and engaging narrative.",
+    "publisher": "Macmillan",
+    "stock": 60
+  },
+  {
+    "product_id": "AMZN_954725078",
+    "book_name": "Book Title 34",
+    "writer": "Patrick Rothfuss",
+    "category": [
+      "Technology",
+      "Programming"
+    ],
+    "cost": 12.06,
+    "reviews_count": 704,
+    "summary": "A compelling technology story that captivates readers with its unique perspective and engaging narrative.",
+    "publisher": "HarperCollins",
+    "stock": 65
+  },
+  {
+    "product_id": "AMZN_779615069",
+    "book_name": "Book Title 35",
+    "writer": "Douglas Adams",
+    "category": [
+      "Self-Help",
+      "Personal Development"
+    ],
+    "cost": 16.03,
+    "reviews_count": 1934,
+    "summary": "A compelling self-help story that captivates readers with its unique perspective and engaging narrative.",
+    "publisher": "HarperCollins",
+    "stock": 28
+  },
+  {
+    "product_id": "AMZN_313814138",
+    "book_name": "Book Title 36",
+    "writer": "Ernest Hemingway",
+    "category": [
+      "Technology",
+      "Programming"
+    ],
+    "cost": 8.58,
+    "reviews_count": 2015,
+    "summary": "A compelling technology story that captivates readers with its unique perspective and engaging narrative.",
+    "publisher": "Simon & Schuster",
+    "stock": 78
+  },
+  {
+    "product_id": "AMZN_925159146",
+    "book_name": "Book Title 37",
+    "writer": "George Orwell",
+    "category": [
+      "Art",
+      "Visual Arts"
+    ],
+    "cost": 18.92,
+    "reviews_count": 4725,
+    "summary": "A compelling art story that captivates readers with its unique perspective and engaging narrative.",
+    "publisher": "Random House",
+    "stock": 91
+  },
+  {
+    "product_id": "AMZN_512293741",
+    "book_name": "Book Title 38",
+    "writer": "Isaac Asimov",
+    "category": [
+      "Business",
+      "Entrepreneurship"
+    ],
+    "cost": 17.58,
+    "reviews_count": 1218,
+    "summary": "A compelling business story that captivates readers with its unique perspective and engaging narrative.",
+    "publisher": "Penguin",
+    "stock": 96
+  },
+  {
+    "product_id": "AMZN_926830795",
+    "book_name": "Book Title 39",
+    "writer": "Agatha Christie",
+    "category": [
+      "Art",
+      "Visual Arts"
+    ],
+    "cost": 26.67,
+    "reviews_count": 1802,
+    "summary": "A compelling art story that captivates readers with its unique perspective and engaging narrative.",
+    "publisher": "Random House",
+    "stock": 89
+  },
+  {
+    "product_id": "AMZN_598806645",
+    "book_name": "Book Title 40",
+    "writer": "J.K. Rowling",
+    "category": [
+      "History",
+      "World History"
+    ],
+    "cost": 21.37,
+    "reviews_count": 1004,
+    "summary": "A compelling history story that captivates readers with its unique perspective and engaging narrative.",
+    "publisher": "Simon & Schuster",
+    "stock": 17
+  },
+  {
+    "product_id": "AMZN_598906879",
+    "book_name": "Book Title 41",
+    "writer": "Terry Pratchett",
+    "category": [
+      "Technology",
+      "Programming"
+    ],
+    "cost": 20.74,
+    "reviews_count": 4588,
+    "summary": "A compelling technology story that captivates readers with its unique perspective and engaging narrative.",
+    "publisher": "Macmillan",
+    "stock": 40
+  },
+  {
+    "product_id": "AMZN_575209597",
+    "book_name": "Book Title 42",
+    "writer": "Douglas Adams",
+    "category": [
+      "Technology",
+      "Programming"
+    ],
+    "cost": 27.55,
+    "reviews_count": 4145,
+    "summary": "A compelling technology story that captivates readers with its unique perspective and engaging narrative.",
+    "publisher": "Simon & Schuster",
+    "stock": 70
+  },
+  {
+    "product_id": "AMZN_270894498",
+    "book_name": "Book Title 43",
+    "writer": "Patrick Rothfuss",
+    "category": [
+      "Biography",
+      "Memoir"
+    ],
+    "cost": 28.67,
+    "reviews_count": 3696,
+    "summary": "A compelling biography story that captivates readers with its unique perspective and engaging narrative.",
+    "publisher": "HarperCollins",
+    "stock": 96
+  },
+  {
+    "product_id": "AMZN_784683755",
+    "book_name": "Book Title 44",
+    "writer": "Virginia Woolf",
+    "category": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "cost": 26.37,
+    "reviews_count": 4280,
+    "summary": "A compelling mystery story that captivates readers with its unique perspective and engaging narrative.",
+    "publisher": "Simon & Schuster",
+    "stock": 80
+  },
+  {
+    "product_id": "AMZN_394846763",
+    "book_name": "Book Title 45",
+    "writer": "Ray Bradbury",
+    "category": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "cost": 9.85,
+    "reviews_count": 2350,
+    "summary": "A compelling mystery story that captivates readers with its unique perspective and engaging narrative.",
+    "publisher": "Random House",
+    "stock": 34
+  },
+  {
+    "product_id": "AMZN_443285529",
+    "book_name": "Book Title 46",
+    "writer": "Philip K. Dick",
+    "category": [
+      "Thriller",
+      "Suspense"
+    ],
+    "cost": 9.92,
+    "reviews_count": 1245,
+    "summary": "A compelling thriller story that captivates readers with its unique perspective and engaging narrative.",
+    "publisher": "Random House",
+    "stock": 49
+  },
+  {
+    "product_id": "AMZN_264073400",
+    "book_name": "Book Title 47",
+    "writer": "Brandon Sanderson",
+    "category": [
+      "Business",
+      "Entrepreneurship"
+    ],
+    "cost": 13.12,
+    "reviews_count": 3408,
+    "summary": "A compelling business story that captivates readers with its unique perspective and engaging narrative.",
+    "publisher": "Simon & Schuster",
+    "stock": 42
+  },
+  {
+    "product_id": "AMZN_600282414",
+    "book_name": "Book Title 48",
+    "writer": "Margaret Atwood",
+    "category": [
+      "History",
+      "World History"
+    ],
+    "cost": 9.48,
+    "reviews_count": 3451,
+    "summary": "A compelling history story that captivates readers with its unique perspective and engaging narrative.",
+    "publisher": "Simon & Schuster",
+    "stock": 98
+  },
+  {
+    "product_id": "AMZN_846812123",
+    "book_name": "Book Title 49",
+    "writer": "Stephen King",
+    "category": [
+      "Philosophy",
+      "Ethics"
+    ],
+    "cost": 28.55,
+    "reviews_count": 4726,
+    "summary": "A compelling philosophy story that captivates readers with its unique perspective and engaging narrative.",
+    "publisher": "Simon & Schuster",
+    "stock": 61
+  },
+  {
+    "product_id": "AMZN_477698143",
+    "book_name": "Book Title 50",
+    "writer": "F. Scott Fitzgerald",
+    "category": [
+      "Fiction",
+      "Literary Fiction"
+    ],
+    "cost": 26.07,
+    "reviews_count": 3442,
+    "summary": "A compelling fiction story that captivates readers with its unique perspective and engaging narrative.",
+    "publisher": "Macmillan",
+    "stock": 95
+  }
+]
