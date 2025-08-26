@@ -1,6 +1,7 @@
-qdrant-client 
-openai 
-sentence-transformers 
-pandas 
-numpy 
+qdrant-client
+openai
+sentence-transformers
+numpy
 python-dotenv
+crewai
+crewai[tools]
