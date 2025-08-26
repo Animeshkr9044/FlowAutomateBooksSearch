@@ -2,6 +2,12 @@
 
 This document outlines the core problem this project is designed to solve: enabling natural language queries across two distinct bookstore datasets with different data schemas.
 
+## Quick Links
+
+- [**Architecture Documentation**](https://github.com/Animeshkr9044/FlowAutomateBooksSearch/blob/main/Documentation/ARCHITECTURE.md)
+- [**Architecture Diagram**](https://github.com/Animeshkr9044/FlowAutomateBooksSearch/blob/main/Documentation/Mermaid%20Chart%20-%20Create%20complex%2C%20visual%20diagrams%20with%20text.%20A%20smarter%20way%20of%20creating%20diagrams.-2025-08-26-143337.svg)
+- [**View Sample Output**](https://docs.google.com/spreadsheets/d/1wkfJ_YKZfi1W-Y9snWLxRmZG1CqQGtS32tNfjXDjNJE/edit?usp=sharing)
+
 ## Problem Statement
 
 The primary goal is to build a unified system that can understand and answer natural language questions from a user, even when the underlying data comes from multiple sources with inconsistent structures. The system must be able to handle queries such as:
@@ -91,7 +97,7 @@ To evaluate the agent's performance across a range of queries, the system genera
 
 Below is a sample from the `batch_query_results.csv` file, which demonstrates the agent's ability to provide conversational and accurate responses to various queries. You can view the complete output file [here](https://docs.google.com/spreadsheets/d/1wkfJ_YKZfi1W-Y9snWLxRmZG1CqQGtS32tNfjXDjNJE/edit?usp=sharing).
 
-For a deeper dive into how the system is designed, please refer to the [**Architecture Documentation**](https://github.com/Animeshkr9044/FlowAutomateBooksSearch/blob/main/Documentation/ARCHITECTURE.md).
+For a deeper dive into how the system is designed, please refer to the [**Architecture Documentation**](https://github.com/Animeshkr9044/FlowAutomateBooksSearch/blob/main/Documentation/ARCHITECTURE.md) and view the [**Architecture Diagram**](https://github.com/Animeshkr9044/FlowAutomateBooksSearch/blob/main/Documentation/Mermaid%20Chart%20-%20Create%20complex%2C%20visual%20diagrams%20with%20text.%20A%20smarter%20way%20of%20creating%20diagrams.-2025-08-26-143337.svg).
 
 ```csv
 query,response
