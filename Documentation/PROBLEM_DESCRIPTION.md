@@ -89,7 +89,9 @@ To evaluate the agent's performance across a range of queries, the system genera
 
 ### Example
 
-Here is a sample of what the `batch_query_results.csv` file looks like:
+Below is a sample from the `batch_query_results.csv` file, which demonstrates the agent's ability to provide conversational and accurate responses to various queries. You can view the complete output file [here](https://docs.google.com/spreadsheets/d/1wkfJ_YKZfi1W-Y9snWLxRmZG1CqQGtS32tNfjXDjNJE/edit?usp=sharing).
+
+For a deeper dive into how the system is designed, please refer to the [**Architecture Documentation**](https://github.com/Animeshkr9044/FlowAutomateBooksSearch/blob/main/Documentation/ARCHITECTURE.md).
 
 ```csv
 query,response
